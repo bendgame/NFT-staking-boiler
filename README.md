@@ -1,4 +1,6 @@
+Forked
 # Solidity Template
+
 
 My favourite setup for writing Solidity smart contracts.
 
